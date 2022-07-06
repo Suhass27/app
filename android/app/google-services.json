@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014704834861",
+    "project_id": "campus-connect-c65a3",
+    "storage_bucket": "campus-connect-c65a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014704834861:android:66888788b0417aaf11aba4",
+        "android_client_info": {
+          "package_name": "com.uzair.campus_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014704834861-qbmvk6oem59st85d8l8v02mat8dj466j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqg1Tt3mVIYiWV-67zNomz9yhCZ1a6X_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014704834861-qbmvk6oem59st85d8l8v02mat8dj466j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
